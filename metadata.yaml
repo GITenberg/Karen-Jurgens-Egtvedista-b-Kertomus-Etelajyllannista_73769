@@ -1,0 +1,39 @@
+_repo: Karen-Jurgens-Egtvedista-b-Kertomus-Etelajyllannista_73769
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Kieler, Laura
+    birthdate: 1849
+    deathdate: 1932
+    gutenberg_agent_id: '35682'
+    url: http://www.gutenberg.org/2009/agents/35682
+description: ''
+gutenberg_issued: '2024-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73769'
+language: fi
+pgterms:marc905: 20240522020923kieler
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Karen Jürgens Egtvedistä : $b Kertomus Eteläjyllannista'
+url: http://www.gutenberg.org/ebooks/73769
