@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kieler, Laura
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '35682'
     url: http://www.gutenberg.org/2009/agents/35682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73769#Karen-Jurgens-Egtvedista-b-Kertomus-Etelajyllannista
 gutenberg_issued: '2024-06-04'
 gutenberg_type: Text
 identifiers:
